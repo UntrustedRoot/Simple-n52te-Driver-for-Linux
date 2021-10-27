@@ -2,7 +2,7 @@
 
 Continuing in my Driver-for-Linux(tm) series of.... drivers for Linux.....
 
-THE SIMPLE n53te DRIVER FOR LUNUX
+THE SIMPLE n53te DRIVER FOR LINUX
 
 Different device, same problem. No driver for Windows or Linux
 
