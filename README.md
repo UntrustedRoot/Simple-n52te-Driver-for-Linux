@@ -1,3 +1,8 @@
+# NO LONGER MAINTAINED!
+I got my hands on a Tartarus Chroma and decided it was finally time to eWaste the old n52te.
+
+RIP
+
 # Simple n52te Driver for Linux
 
 Continuing in my Driver-for-Linux(tm) series of.... drivers for Linux.....
